@@ -1,0 +1,7 @@
+basic.show_string("bonjour")
+basic.pause(500)
+basic.show_number(1881)
+basic.pause(500)
+basic.show_arrow(ArrowNames.SOUTH)
+basic.pause(500)
+basic.show_icon(IconNames.HAPPY)
